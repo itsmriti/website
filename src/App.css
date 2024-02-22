@@ -1,0 +1,21 @@
+.main {
+  background-image: url("/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.text {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: "45%";
+  font-weight: bolder;
+  font-style: italic;
+  font-size: x-large;
+  color: white;
+  height: 100%;
+  width: 100%;
+}
